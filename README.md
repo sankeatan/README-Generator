@@ -1,17 +1,17 @@
 ## Description
-thwkth
-Motivation for the project: wthkw ht
-Why build the project: wkhtkwth
-What problem this solves: wetkhwekth
-What did you learn: wkhetkwet
+This is a simple app to build readme.mds for your project using CLI
+Motivation for the project: I hate formatting readme files!
+Why build the project: Seeing how these npmp's interact
+What problem this solves: It helps ease the readme creation process
+What did you learn: I learned how to link js files together using require as well as generate files using fs!
 ## Installation 
-kwetjkwth
+There is nothing required to install this project, simply pull it from the repo
 ## Credits
-wketkwen
+inquirer and fs npm
 ## Usage
-wntwht
+Follow the questions in the command line after running node.js on the index.js
 ## Credits
-wketkwen
+inquirer and fs npm
 ## Contact Me
-[Linkedin](wkthht)
-[Github](wjtekwth)
+[Linkedin](https://www.linkedin.com/in/cameronclark1110/)
+[Github](https://github.com/sankeatan)
