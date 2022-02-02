@@ -11,6 +11,7 @@ Just pull the project, install the npm files, and run it through node's CLI!
 No collaborators, but fs and inquirer are used for writing files and CLI
 ## Usage
 Answer the questions to create a readme for your projects
+[Usage Video](https://watch.screencastify.com/v/QTfUIYQed8EMeYtZhnGc)
 ## License
 Public Domain
 ## Contact Me
