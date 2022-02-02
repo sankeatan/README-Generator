@@ -18,9 +18,9 @@ function renderUsage({usage}){
   return usageText;
 }
 
-function renderLicense({credits}){
-  var credits = `## Credits\n${credits}\n`;
-  return credits;
+function renderLicense({license}){
+  var license = `## License\n${license}\n`;
+  return license;
 }
 function renderContact({linkedin, github}){
   var contactText = `## Contact Me\n`;
@@ -52,12 +52,16 @@ function renderDescription({description, motivation, whyBuild, problem, learned}
   }
   return descriptionText;
 }
+function renderTitle({title}){
+  var title = `### ${title}\n`;
+  return title;
+}
 
 
 
-// TODO: Create a function to generate markdown for README
+
 function generateMarkdown(data) {
-  
+  markdownText += renderTitle(data);
   markdownText += renderDescription(data);
   markdownText += renderInstallation(data);
   markdownText += renderCredits(data);

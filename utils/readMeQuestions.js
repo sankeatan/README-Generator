@@ -129,7 +129,6 @@ function generateContact(){
     
     ])
     .then((answers) => {
-      markdownContent.license = answers.license
       markdownContent.linkedin = answers.linkedin;
       markdownContent.github = answers.github;
       generateMarkdown(markdownContent);

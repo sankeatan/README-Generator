@@ -1,17 +1,18 @@
+### README Generator
 ## Description
-This is a simple app to build readme.mds for your project using CLI
-Motivation for the project: I hate formatting readme files!
-Why build the project: Seeing how these npmp's interact
-What problem this solves: It helps ease the readme creation process
-What did you learn: I learned how to link js files together using require as well as generate files using fs!
+A simple readme generator based on CLI input
+Motivation for the project: To quickly build readme markdown files for projects
+Why build the project: I wanted to stop making readme files by hand
+What problem this solves: It allows me to enter information without having to format it to create a readme document
+What did you learn: I learned how to link js files and also how to dynamically create files using fs
 ## Installation 
-There is nothing required to install this project, simply pull it from the repo
+Just pull the project, install the npm files, and run it through node's CLI!
 ## Credits
-inquirer and fs npm
+No collaborators, but fs and inquirer are used for writing files and CLI
 ## Usage
-Follow the questions in the command line after running node.js on the index.js
-## Credits
-inquirer and fs npm
+Answer the questions to create a readme for your projects
+## License
+Public Domain
 ## Contact Me
 [Linkedin](https://www.linkedin.com/in/cameronclark1110/)
 [Github](https://github.com/sankeatan)
